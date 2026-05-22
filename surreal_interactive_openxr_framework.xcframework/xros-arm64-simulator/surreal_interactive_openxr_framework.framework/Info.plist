@@ -12,6 +12,8 @@
     <string>1.0</string>
     <key>CFBundleExecutable</key>
     <string>surreal_interactive_openxr_framework</string>
+    <key>MinimumOSVersion</key>
+    <string>2.2</string>
     <key>AvailableLibraries</key>
     <array>
         <dict>

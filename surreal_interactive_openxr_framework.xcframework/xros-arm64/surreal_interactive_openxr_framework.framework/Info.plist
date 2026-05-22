@@ -17,7 +17,7 @@
     <key>CFBundleVersion</key>
     <string>1.0</string>
     <key>MinimumOSVersion</key>
-    <string>2.0</string>
+    <string>2.2</string>
     <key>AvailableLibraries</key>
     <array>
         <dict>
